@@ -2,7 +2,7 @@
   "WBUI2": {
     "settings": {
         "OpenButton": 0,
-        "HideIcon": false,
+        "HideIcon": true,
         "HideIconAfter": 60,
         "IconURL": "https://i.imgur.com/OZ6xOjY.png",
         "DisableIconText": false,
@@ -16,7 +16,7 @@
       {
         "tab1": {
           "layout": 3,
-          "buttontext": "3 Box layout",
+          "buttontext": "Dark of Night",
           "title1": "<TextStyle.Green>CHANGE LOG</>",
           "title2": "<TextStyle.Violet>SETTINGS</>",
           "title3": "<TextStyle.Blue>SERVER RULES</>",
