@@ -1,0 +1,51 @@
+{
+  "WBUI2": {
+    "settings": {
+        "OpenButton": 0,
+        "HideIcon": false,
+        "HideIconAfter": 60,
+        "IconURL": "https://i.imgur.com/OZ6xOjY.png",
+        "DisableIconText": false,
+        "IconPosition": 0,
+        "IconTextColor": 0,
+        "OpenOnStart": true,
+        "OpenOnStartOnlyNewPlayers": true,
+        "UpdateInterval": 12
+      },
+    "tabs": [
+      {
+        "tab1": {
+          "layout": 3,
+          "buttontext": "3 Box layout",
+          "title1": "<TextStyle.Green>CHANGE LOG</>",
+          "title2": "<TextStyle.Violet>SETTINGS</>",
+          "title3": "<TextStyle.Blue>SERVER RULES</>",
+          "text1": "12/31 Server set to public",
+          "text2": "Current settings are to official servers",
+          "text3": "Server is 18 plus, however personal threats can result in admin action \nDistructive behavior is not allowed \nNormal Ark rules apply \n\nADMIN decisions are final",
+          "imageurl": "https://i.imgur.com/mGt3cAF.png"
+        }
+      }
+    ],
+    "links": [
+      {
+        "link1": {
+          "text": "Link to Google",
+          "url": "https://google.com"
+        }
+      },
+      {
+        "link2": {
+          "text": "",
+          "url": ""
+        }
+      },
+      {
+        "link3": {
+          "text": "",
+          "url": ""
+        }
+      }
+    ]
+  }
+}
