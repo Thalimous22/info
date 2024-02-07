@@ -16,11 +16,11 @@
       {
         "tab1": {
           "layout": 3,
-          "buttontext": "Dark of Night",
+          "buttontext": "Rising Death Ascended",
           "title1": "<TextStyle.Green>CHANGE LOG</>",
           "title2": "<TextStyle.Violet>SETTINGS</>",
           "title3": "<TextStyle.Blue>SERVER RULES</>",
-          "text1": "<TextStyle.Green>Dark of Night is a basic game server that removes most Tek (but not all) and adds several simple mods to create a closer to real life feel.</>\n\n02/05/24 Added Brachiosaurus and Maewing to the server\n1/14/24 Removed Tek, Adjusted several stack settings, Added Carchar\n12/31 Server set to public",
+          "text1": "<TextStyle.Green>Rising Death Ascended is a basic game server that removes most Tek (but not all) and adds several simple mods to create a closer to real life feel.</>\n\n02/05/24 Added Brachiosaurus and Maewing to the server\n1/14/24 Removed Tek, Adjusted several stack settings, Added Carchar\n12/31 Server set to public",
           "text2": "Wild dino max level = 200\nBreeding 3X official\nHarvest Rates 2X official\n\nAll other settings are to official servers",
           "text3": "Server is 18 plus, however personal threats can result in admin action \nDistructive behavior is not allowed \nNormal Ark rules apply \n\nADMIN decisions are final",
           "imageurl": "https://i.imgur.com/mGt3cAF.png"
